@@ -1,0 +1,3 @@
+This is the repository for Musexplorer, a project that I worked on in 2014-15. It includes a web application built in Ruby on Rails, a PDF miner and a web scraper written in Ruby. The web application has since been taken down due to server costs. 
+
+Musexplorer was intended to be a website where musicians could find pieces to play. I scraped and cleaned data for 10,000+ pieces of music and 1800 composers. Users could search for pieces by various criteria, including level, style of music, instrument, etc. Users could also create accounts and customize their preferences, as well as post comments and reviews. 
