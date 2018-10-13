@@ -1,0 +1,5 @@
+{"sprig_id":1,"name":"Mateo Albéniz","country_ids":["<%= sprig_record(Country, 1).id %>"],"era_ids":["<%= sprig_record(Era, 1).id %>"]},
+{"sprig_id":2,"name":"Felix Mendelssohn","country_ids":["<%= sprig_record(Country, 2).id %>"],"era_ids":["<%= sprig_record(Era, 2).id %>"]},
+{"sprig_id":3,"name":"Wolfgang Amadeus Mozart","country_ids":["<%= sprig_record(Country, 3).id %>"],"era_ids":["<%= sprig_record(Era, 1).id %>"]},
+{"sprig_id":4,"name":"Antonio Vivaldi","country_ids":["<%= sprig_record(Country, 4).id %>"],"era_ids":["<%= sprig_record(Era, 3).id %>"]},
+{"sprig_id":5,"name":"Charles-Marie Widor","country_ids":["<%= sprig_record(Country, 5).id %>"],"era_ids":["<%= sprig_record(Era, 2).id %>"]},

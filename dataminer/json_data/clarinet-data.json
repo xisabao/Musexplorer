@@ -1,0 +1,761 @@
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Minuet for the Mock Trumpet ","level":1,"composer":"Anonymous","unformatted_composer":"Anonymous"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Round Dance from Poictou ","level":1,"composer":"Anonymous","unformatted_composer":"Anonymous"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Land of the Silver Birch ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mango Walk ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuet ","level":1,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chansonette","level":1,"composer":"Serge Dangain","unformatted_composer":"Dangain, Serge"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chinoise","level":1,"composer":"Serge Dangain","unformatted_composer":"Dangain, Serge"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gavotte, from Holberg Suite, op. 40, no. 3 ","level":1,"composer":"Serge Dangain","unformatted_composer":"Dangain, Serge"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Impertinence, 494 ","level":1,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Popcorn","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Carousel ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dancing Bears ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Humoresque ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Merrily We Rock Along","level":1,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"One Hand Funk","level":1,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Star Quality ","level":1,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Witches’ Dance ","level":1,"composer":"Theodor Kullak","unformatted_composer":"Kullak, Theodor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"March ","level":1,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuetto ","level":1,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Smooth as Silk ","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Crumbs!","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dreaming","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro ","level":1,"composer":"Georg Philipp Telemann","unformatted_composer":"Telemann, Georg Philipp"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro ","level":1,"composer":"Robert Valentine","unformatted_composer":"Valentine, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"America ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bonny at Morn ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Deep River ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Morning Has Broken ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Song of the Volga Boatmen ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Water Is Wide ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"What Is This Lovely Fragrance? ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Simple Gifts ","level":1,"composer":"Joseph Brackett","unformatted_composer":"Brackett, Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sarabande ","level":1,"composer":"William Corbett","unformatted_composer":"Corbett, William"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pas de deux ","level":1,"composer":"Dorothee Eberhardt","unformatted_composer":"Eberhardt, Dorothee"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante ","level":1,"composer":"Edward Elgar","unformatted_composer":"Elgar, Edward"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Harmonious Blacksmith, from Suite in E Major,","level":1,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Reflections ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Spanish Memory ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andantino ","level":1,"composer":"Jean-Baptiste Lully","unformatted_composer":"Lully, Jean-Baptiste"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Funeral March, from Symphony No. 1 ","level":1,"composer":"Gustav Mahler","unformatted_composer":"Mahler, Gustav"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Trip to the Bazaar ","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gloomy","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"How Graceful","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Under A Cloud","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance ","level":1,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Magical Mystery Tour","level":1,"composer":"Ned Bennett","unformatted_composer":"Bennett, Ned"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Minuet in G","level":1,"composer":"Ned Bennett","unformatted_composer":"Bennett, Ned"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Bee ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Polly ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Study On the New Notes ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hornpipe Study","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"From the Second Symphony ","level":1,"composer":"Franz Joseph Haydn","unformatted_composer":"Haydn, Franz Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nimble Fingers","level":1,"composer":"Ted Hegvik","unformatted_composer":"Hegvik, Ted"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":1,"composer":"Gustave Langenus","unformatted_composer":"Langenus, Gustave"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bingo ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Erie Canal Capers ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Go for Excellence! ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Jumpin’ ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Breezin’ ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dorian Dance ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"March of the Processed Peas ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Middle Man ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Olympic Flame ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Organ Grinder’s Apprentice ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Sheriff ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Folk Song ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Long, Long Ago ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hickory Dickory Dock ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"America ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Down in the Valley ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Old King Cole","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lullaby","level":1,"composer":"Ned Bennett","unformatted_composer":"Bennett, Ned"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Theme from Symphony No. 1 ","level":1,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Slow Motion ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Comfort Zone ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Going Down with Eees ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"May the Fourths Be with You ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Blue Waltz ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Destiny ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Diversion ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Evening Song, op. 85, no. 12 ","level":1,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hark, the Herald Angels Sing ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hatikvah ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mairi’s Wedding ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Shepherd’s Hey ","level":1,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"German Dance ","level":1,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Brunette ","level":1,"composer":"Joseph Bodin de Boismortier","unformatted_composer":"Boismortier, Joseph Bodin de"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Wolsley’s Wilde ","level":1,"composer":"William Byrd","unformatted_composer":"Byrd, William"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The King’s March, T 432 ","level":1,"composer":"Jeremiah Clarke","unformatted_composer":"Clarke, Jeremiah"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Funeral March of a Marionette ","level":1,"composer":"Charles Gounod","unformatted_composer":"Gounod, Charles"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bourrée anglaise, from Sonata in G Major, op. 1,","level":1,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Computer Game","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Coquette ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Donkey Ride ","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Polka-Dot Rag","level":1,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Blue Bells of Scotland ","level":1,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"I Am Thinking of My Pickaninny Days ","level":1,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Jelly Bean Rag ","level":1,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Beginner’s Blues ","level":1,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"For He’s a Jolly Good Jazzer ","level":1,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ecossaise ","level":1,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Merry Peasant, op. 68, no. 10 ","level":1,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Star Spangled Banner ","level":1,"composer":"Martha Mier","unformatted_composer":"Mier, Martha"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Poor Wand’ring One!, from The Pirates of Penzance","level":1,"composer":"Arthur Sullivan","unformatted_composer":"Sullivan, Arthur"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Solitary","level":1,"composer":"Arthur Sullivan","unformatted_composer":"Sullivan, Arthur"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gavotte ","level":1,"composer":"Georg Philipp Telemann","unformatted_composer":"Telemann, Georg Philipp"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gigue, from Quintet in F Major, 44","level":1,"composer":"Henry Purcell","unformatted_composer":"Purcell, Henry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Puppet’s Dance, from Music for Children ","level":1,"composer":"William Walton","unformatted_composer":"Walton, William"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Walzer ","level":1,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clarinet Blues ","level":1,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lazy Days ","level":1,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ode to Newfoundland ","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Air, from The Double Dealer, Z 592 ","level":1,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Trout, from Piano Quintet in A Major, D 667","level":1,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Melody ","level":1,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"None But the Lonely Heart, op. 6, no. 6 ","level":1,"composer":"Pyotr Il Tchaikovsky","unformatted_composer":"Tchaikovsky, Pyotr Il"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Moto Perpetuo ","level":1,"composer":"Chris Allen","unformatted_composer":"Allen, Chris"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D Minor ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Black Is the Color ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Huron Carol ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Londonderry Air ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tumbalalaika ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Moderato cantabile ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sarabande ","level":1,"composer":"Arcangelo Corelli","unformatted_composer":"Corelli, Arcangelo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rêverie ","level":1,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Beautiful Dreamer ","level":1,"composer":"Stephen Collins Foster","unformatted_composer":"Foster, Stephen Collins"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Austrian Hymn ","level":1,"composer":"Franz Joseph Haydn","unformatted_composer":"Haydn, Franz Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"To a Wild Rose, op. 51, no. 1 ","level":1,"composer":"Edward Macdowell","unformatted_composer":"Macdowell, Edward"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Barcarole ","level":1,"composer":"Felix Mendelssohn","unformatted_composer":"Mendelssohn, Felix"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Early One Morning ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ländler ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":1,"composer":"Henry Lazarus","unformatted_composer":"Lazarus, Henry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Alouette ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Grandfather’s Whiskers ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ming Court ","level":1,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Big One ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Passing Time ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Schnitzel Waltz ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pieces of Eight ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Staccato Dance ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ronde ","level":1,"composer":"Tylman Susato","unformatted_composer":"Susato, Tylman"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":1,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Merry Peasant ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Oranges and Lemons ","level":1,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prairie Lament","level":1,"composer":"Ted Hegvik","unformatted_composer":"Hegvik, Ted"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Home on the Range ","level":1,"composer":"Daniel E Kelley","unformatted_composer":"Kelley, Daniel E"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":1,"composer":"Henry Lazarus","unformatted_composer":"Lazarus, Henry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Major ","level":1,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Forever ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tumbledown Blues ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Beyond the Mist ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Autumn Clouds ","level":1,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Roses from the South ","level":1,"composer":"Johann Strauss","unformatted_composer":"Strauss, Johann"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"American Songs ","level":2,"composer":"Johann Strauss","unformatted_composer":"Strauss, Johann"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Season’s Greetings! ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Branch Line, from Locomotive Suite","level":2,"composer":"Colin Cowles","unformatted_composer":"Cowles, Colin"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"But Not for Me ","level":2,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"A Foggy Day ","level":2,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"I Got Rhythm ","level":2,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bourrée, from Sonata No. 2 in G Major ","level":2,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gavotte, 491 ","level":2,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dance of the Elegant Elephant ","level":2,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ghoulish ","level":2,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Space-age Sonatina ","level":2,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Peacherine Rag ","level":2,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bourrée ","level":2,"composer":"Johann Krieger","unformatted_composer":"Krieger, Johann"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Red Rose Rendezvous ","level":2,"composer":"Martha Mier","unformatted_composer":"Mier, Martha"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuett, from Eine kleine Nachtmusik, K 525","level":2,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tema con variazione ","level":2,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"It Takes Two","level":2,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Registration Day","level":2,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hornpipe, from Abdelazer, Z 570 ","level":2,"composer":"Henry Purcell","unformatted_composer":"Purcell, Henry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Theme from Antiques Roadshow ","level":2,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuett ","level":2,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Fascinator ","level":2,"composer":"James Scott","unformatted_composer":"Scott, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Che farò senza Euridice ","level":2,"composer":"Christoph Willibald Gluck","unformatted_composer":"Gluck, Christoph Willibald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Major-General’s Song, from The Pirates of Penzance","level":2,"composer":"Christoph Willibald Gluck","unformatted_composer":"Gluck, Christoph Willibald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hava Nagila ","level":2,"composer":"Joseph Haydn","unformatted_composer":"Haydn, Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vilja, from The Merry Widow ","level":2,"composer":"Joseph Haydn","unformatted_composer":"Haydn, Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Skip ","level":2,"composer":"Errollyn Wallen","unformatted_composer":"Wallen, Errollyn"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"All the Pretty Little Horses ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Greensleeves ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Londonderry Air ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Oh, Shenando’ ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Minuet, Anh. 132 ","level":2,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Entr’acte, from Carmen ","level":2,"composer":"Georges Bizet","unformatted_composer":"Bizet, Georges"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sentimental Serenade","level":2,"composer":"Alan Bullard","unformatted_composer":"Bullard, Alan"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Preludio, from Sonata in A Minor ","level":2,"composer":"Arcangelo Corelli","unformatted_composer":"Corelli, Arcangelo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sarabande ","level":2,"composer":"Arcangelo Corelli","unformatted_composer":"Corelli, Arcangelo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Carol","level":2,"composer":"Gerald Finzi","unformatted_composer":"Finzi, Gerald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Swanee River ","level":2,"composer":"Stephen Collins Foster","unformatted_composer":"Foster, Stephen Collins"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vignette","level":2,"composer":"Harry Freedman","unformatted_composer":"Freedman, Harry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Embraceable You ","level":2,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adagio ","level":2,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Song of Spring","level":2,"composer":"Nilo W Hovey","unformatted_composer":"Hovey, Nilo W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Reflections","level":2,"composer":"Nilo W Hovey","unformatted_composer":"Hovey, Nilo W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chrysalis","level":2,"composer":"Gustave Langenus","unformatted_composer":"Langenus, Gustave"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Élégie ","level":2,"composer":"Franz Lehár","unformatted_composer":"Lehár, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"With Grace","level":2,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Danny Boy","level":2,"composer":"William James Ross","unformatted_composer":"Ross, William James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"If You Should Go","level":2,"composer":"William Grant Still","unformatted_composer":"Still, William Grant"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Wish","level":2,"composer":"Mr Tuke","unformatted_composer":"Tuke, Mr"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Largo, from The Four Seasons ","level":2,"composer":"Antonio Vivaldi","unformatted_composer":"Vivaldi, Antonio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Loch Lomond ","level":2,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Theme from Symphony No. 9 ","level":2,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Blue Bells of Scotland ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Greensleeves ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mozart Theme ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":2,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Promenade","level":2,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Summer Day","level":2,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Happy Ending ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Good News for Some! ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Strange, but True ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Latin ","level":2,"composer":"Chris Allen","unformatted_composer":"Allen, Chris"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Over the Break through B flat ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mixed Slurs and Staccato ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Staccato Study ","level":2,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Bear Is Dancing","level":2,"composer":"Ted Hegvik","unformatted_composer":"Hegvik, Ted"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Minor ","level":2,"composer":"Nilo W Hovey","unformatted_composer":"Hovey, Nilo W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":2,"composer":"Gustave Langenus","unformatted_composer":"Langenus, Gustave"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Jolly Fellow","level":2,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ach! Du Lieber Augustine ","level":2,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Go for Excellence! ","level":2,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Just Fine ","level":2,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations on a Theme by Mozart ","level":2,"composer":"Bruce Pearson","unformatted_composer":"Pearson, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ted’s Shuffle ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mixin’ It! ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Demon’s Delight ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Straight Five ","level":2,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Manhattan Beach March ","level":2,"composer":"John Philip Sousa","unformatted_composer":"Sousa, John Philip"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Carnival of Venice ","level":3,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ungarische Tänze ","level":3,"composer":"Traditional","unformatted_composer":"Traditional"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Deutscher Tanz ","level":3,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Minuet in G ","level":3,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Moto perpetuo ","level":3,"composer":"Carl Bohm","unformatted_composer":"Bohm, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Going Fishing","level":3,"composer":"James Collis","unformatted_composer":"Collis, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Take Five ","level":3,"composer":"Paul Desmond","unformatted_composer":"Desmond, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fascinating Rhythm ","level":3,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Strike Up the Band ","level":3,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gavotte ","level":3,"composer":"François-Joseph Gossec","unformatted_composer":"Gossec, François-Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tea on the Lawn ","level":3,"composer":"Christopher Gunning","unformatted_composer":"Gunning, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Minuet and Trio, from Suite in Baroque Form","level":3,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Easy Winners ","level":3,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rondo, from Sonata No. 1 ","level":3,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Pink Panther ","level":3,"composer":"Henry Mancini","unformatted_composer":"Mancini, Henry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rondo alla turca ","level":3,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Number Crunching ","level":3,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Canasta","level":3,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Deux menuets ","level":3,"composer":"Jean-Philippe Rameau","unformatted_composer":"Rameau, Jean-Philippe"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sleigh Ride","level":3,"composer":"Sid Robinovitch","unformatted_composer":"Robinovitch, Sid"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Zigeunertanz, from Sonata for the Young, op.","level":3,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Summer Holiday","level":3,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante","level":3,"composer":"Dale Reubart","unformatted_composer":"Reubart, Dale"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Young Prince and the Young Princess, from","level":3,"composer":"Nicolai Rimsky-Korsakov","unformatted_composer":"Rimsky-Korsakov, Nicolai"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Intermezzo ","level":3,"composer":"Nicolai Rimsky-Korsakov","unformatted_composer":"Rimsky-Korsakov, Nicolai"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chalumeau Blues ","level":3,"composer":"Mikhail Starokadomsky","unformatted_composer":"Starokadomsky, Mikhail"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Moldavian Fantasy ","level":3,"composer":"Mikhail Starokadomsky","unformatted_composer":"Starokadomsky, Mikhail"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clair de lune ","level":3,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nimrod, from Variations on an Original Theme","level":3,"composer":"Edward Elgar","unformatted_composer":"Elgar, Edward"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Après un rêve, op. 7, no. 1 ","level":3,"composer":"Gabriel Fauré","unformatted_composer":"Fauré, Gabriel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Caroline’s Tune","level":3,"composer":"Malcolm Forsyth","unformatted_composer":"Forsyth, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Litany ","level":3,"composer":"Anthony Gilbert","unformatted_composer":"Gilbert, Anthony"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clouds in Summer","level":3,"composer":"Nilo W Hovey","unformatted_composer":"Hovey, Nilo W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pleasant Moments ","level":3,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante pastorale, from Le Prophète","level":3,"composer":"Giacomo Meyerbeer","unformatted_composer":"Meyerbeer, Giacomo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ave Verum, K 618 ","level":3,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"In a Mellow Mood","level":3,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pie Jesu ","level":3,"composer":"John Rutter","unformatted_composer":"Rutter, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Theme, from Octet in F Major ","level":3,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance, from Concerto No. 3 ","level":3,"composer":"Karl Stamitz","unformatted_composer":"Stamitz, Karl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bayou Home","level":3,"composer":"William Grant Still","unformatted_composer":"Still, William Grant"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Song for the Lonely","level":3,"composer":"William Grant Still","unformatted_composer":"Still, William Grant"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Song Without Words ","level":3,"composer":"Pyotr Il Tchaikovsky","unformatted_composer":"Tchaikovsky, Pyotr Il"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Waltz, from The Sleeping Beauty, op. 66 ","level":3,"composer":"Pyotr Il Tchaikovsky","unformatted_composer":"Tchaikovsky, Pyotr Il"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Katie","level":3,"composer":"Jeffery Wilson","unformatted_composer":"Wilson, Jeffery"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante ","level":3,"composer":"Chris Allen","unformatted_composer":"Allen, Chris"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":3,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D Major ","level":3,"composer":"Nilo W Hovey","unformatted_composer":"Hovey, Nilo W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dark Secret","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Reflections","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Reverie","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Twilight","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Weeping Willow","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Whole-tone Capers","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":3,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":3,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Minor ","level":3,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Awkward Dan","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Jim Dandy","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Juggler","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lightly By","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Little Waltz","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lorelei","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Soft-shoe Dance","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vignette","level":3,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Down to Earth ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Windy Ridge ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Don’t Go There! ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hangin’ Out ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Odd Waltz ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Swing Five ","level":3,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vocalise No. 2","level":4,"composer":"Murray Adaskin","unformatted_composer":"Adaskin, Murray"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Overture, from Unto Us a Child Is Born, 142","level":4,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tarantella, op. 63, no. 41 ","level":4,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations on La ci darem la mano [excerpt]","level":4,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"School’s Out!","level":4,"composer":"James Collis","unformatted_composer":"Collis, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Potpourri, op. 45, no. 3 ","level":4,"composer":"Franz Danzi","unformatted_composer":"Danzi, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Le petit nègre ","level":4,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Humoresque ","level":4,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Forest Echo","level":4,"composer":"Raymond Milford Endresen","unformatted_composer":"Endresen, Raymond Milford"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fox Hunt","level":4,"composer":"Raymond Milford Endresen","unformatted_composer":"Endresen, Raymond Milford"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Moonlight Serenade","level":4,"composer":"Raymond Milford Endresen","unformatted_composer":"Endresen, Raymond Milford"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nice Work If You Can Get It ","level":4,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Anitra’s Dance, from Peer Gynt, op. 23 ","level":4,"composer":"Edvard Grieg","unformatted_composer":"Grieg, Edvard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scott Joplin’s New Rag ","level":4,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro, from Sonata No. 2 in G Minor ","level":4,"composer":"Xavier Lefèvre","unformatted_composer":"Lefèvre, Xavier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rondo ","level":4,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cotton Pickin’ Kitten","level":4,"composer":"John Noble","unformatted_composer":"Noble, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Showstopper","level":4,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dancing Doll ","level":4,"composer":"Ralph Vaughan-Williams","unformatted_composer":"Vaughan-Williams, Ralph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adagio ","level":4,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Petit nocturne","level":4,"composer":"Alan Belkin","unformatted_composer":"Belkin, Alan"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Somewhere, from West Side Story ","level":4,"composer":"Leonard Bernstein","unformatted_composer":"Bernstein, Leonard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nocturne, op. 9, no. 2 ","level":4,"composer":"Leonard Bernstein","unformatted_composer":"Bernstein, Leonard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sophisticated Lady ","level":4,"composer":"Duke Ellington","unformatted_composer":"Ellington, Duke"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Largo, from Concerto in B flat Major, L","level":4,"composer":"Johann Friedrich Fasch","unformatted_composer":"Fasch, Johann Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Le jardin de Dolly, op. 56, no. 3 ","level":4,"composer":"Gabriel Fauré","unformatted_composer":"Fauré, Gabriel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Alone ","level":4,"composer":"Elena Firsova","unformatted_composer":"Firsova, Elena"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Lake in the Mountains","level":4,"composer":"James Gayfer","unformatted_composer":"Gayfer, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance","level":4,"composer":"Edward German","unformatted_composer":"German, Edward"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Blue","level":4,"composer":"Arsenio Giron","unformatted_composer":"Giron, Arsenio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chanson, op. 35, no. 3 ","level":4,"composer":"Reinhold Glière","unformatted_composer":"Glière, Reinhold"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Valse triste, op. 35, no. 7 ","level":4,"composer":"Reinhold Glière","unformatted_composer":"Glière, Reinhold"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Peace ","level":4,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Siciliana, from Suite in Baroque Form","level":4,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dance Prelude No. 4","level":4,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adagio, from Clarinet Concerto No. 3 ","level":4,"composer":"Johann Melchior Molter","unformatted_composer":"Molter, Johann Melchior"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Purrdendosi","level":4,"composer":"John Noble","unformatted_composer":"Noble, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"A Cheery Wave","level":4,"composer":"Christopher Norton","unformatted_composer":"Norton, Christopher"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Quando m’en vo ","level":4,"composer":"Giacomo Puccini","unformatted_composer":"Puccini, Giacomo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hymn To the Sun, from The Golden Cockerel ","level":4,"composer":"Nicolai Rimsky-Korsakov","unformatted_composer":"Rimsky-Korsakov, Nicolai"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Swan, from Le carnaval des animaux ","level":4,"composer":"Camille Saint-Saëns","unformatted_composer":"Saint-Saëns, Camille"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Freylach Suite ","level":4,"composer":"Camille Saint-Saëns","unformatted_composer":"Saint-Saëns, Camille"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Siciliano, from In modo antico","level":4,"composer":"Gerhard Wuensch","unformatted_composer":"Wuensch, Gerhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":4,"composer":"Chris Allen","unformatted_composer":"Allen, Chris"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Polka","level":4,"composer":"Randall Cunningham","unformatted_composer":"Cunningham, Randall"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Major ","level":4,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":4,"composer":"Avrahm Galper","unformatted_composer":"Galper, Avrahm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Exercise","level":4,"composer":"Reginald Kell","unformatted_composer":"Kell, Reginald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hill and Dale","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Major and Minor","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Search","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tall Story","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Twinkle Toes","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Catch It! ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Slavonic Dance ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hard as Nails ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"No Joke! ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":4,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":4,"composer":"Randall Cunningham","unformatted_composer":"Cunningham, Randall"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cloudy Sky","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fond Memories","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mr. Brahms","level":4,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dai’s Surprise ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Shifting Winds ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Unexpected ","level":4,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dramatic ","level":5,"composer":"Violet Archer","unformatted_composer":"Archer, Violet"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gigue","level":5,"composer":"Daniel Auber","unformatted_composer":"Auber, Daniel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Seguidilla, from Carmen ","level":5,"composer":"Georges Bizet","unformatted_composer":"Bizet, Georges"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dance","level":5,"composer":"Randall Cunningham","unformatted_composer":"Cunningham, Randall"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Promenade","level":5,"composer":"Marc Delmas","unformatted_composer":"Delmas, Marc"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Serenade ","level":5,"composer":"Franti Drdla","unformatted_composer":"Drdla, Franti"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Air varié","level":5,"composer":"Raymond Milford Endresen","unformatted_composer":"Endresen, Raymond Milford"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro, from Concerto in B flat Major, L","level":5,"composer":"Johann Friedrich Fasch","unformatted_composer":"Fasch, Johann Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude","level":5,"composer":"Gerald Finzi","unformatted_composer":"Finzi, Gerald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tambourin ","level":5,"composer":"François-Joseph Gossec","unformatted_composer":"Gossec, François-Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude, from Suite in Baroque Form","level":5,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Waltz ","level":5,"composer":"Gordon Jacob","unformatted_composer":"Jacob, Gordon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Cascades ","level":5,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Entertainer ","level":5,"composer":"Scott Joplin","unformatted_composer":"Joplin, Scott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scherzo in C Minor ","level":5,"composer":"Paul Koepke","unformatted_composer":"Koepke, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuet, from Divertimento in D Major, K 334 ","level":5,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rachmaninov Studies, from Rhapsody on a Theme of","level":5,"composer":"Sergei Rachmaninov","unformatted_composer":"Rachmaninov, Sergei"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Situation Comedy ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Suite from ","level":5,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Exotica and Summer","level":5,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scherzo","level":5,"composer":"Dale Reubart","unformatted_composer":"Reubart, Dale"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in D Minor ","level":5,"composer":"Antonio Vivaldi","unformatted_composer":"Vivaldi, Antonio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude, from In modo antico","level":5,"composer":"Gerhard Wuensch","unformatted_composer":"Wuensch, Gerhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina, op. 29","level":5,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in B flat Minor ","level":5,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nocturne ","level":5,"composer":"Luigi Bassi","unformatted_composer":"Bassi, Luigi"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance, op. 3 ","level":5,"composer":"Jean Becker","unformatted_composer":"Becker, Jean"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scena, from I Capuleti e i Montecchi","level":5,"composer":"Vincenzo Bellini","unformatted_composer":"Bellini, Vincenzo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Maria, from West Side Story ","level":5,"composer":"Leonard Bernstein","unformatted_composer":"Bernstein, Leonard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Aria","level":5,"composer":"Eugène Bozza","unformatted_composer":"Bozza, Eugène"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegretto grazioso, from Sonata in F Minor,","level":5,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Petite pièce, L 120","level":5,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Promenade ","level":5,"composer":"Marc Delmas","unformatted_composer":"Delmas, Marc"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude to “Ashes of Soldiers”","level":5,"composer":"Colin Eatock","unformatted_composer":"Eatock, Colin"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance","level":5,"composer":"Gerald Finzi","unformatted_composer":"Finzi, Gerald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance","level":5,"composer":"Daniel E Friedman","unformatted_composer":"Friedman, Daniel E"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ballade ","level":5,"composer":"Niels W Gade","unformatted_composer":"Gade, Niels W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante, from Clarinet Concerto No. 2 ","level":5,"composer":"Niels W Gade","unformatted_composer":"Gade, Niels W"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante, from Sonata in E flat Major, Q15","level":5,"composer":"Felix Mendelssohn","unformatted_composer":"Mendelssohn, Felix"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegretto Fantasia ","level":5,"composer":"Sextus Miskow","unformatted_composer":"Miskow, Sextus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in E flat Major, K 67 ","level":5,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasy","level":5,"composer":"Carl Nielsen","unformatted_composer":"Nielsen, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Suite from ","level":5,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude","level":5,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Einfach innig ","level":5,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nocturne, from Concerto in G Minor, op. 47","level":5,"composer":"Theodore Verhey","unformatted_composer":"Verhey, Theodore"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gigue, from Cello Suite No. 1 in G Major, 1007","level":5,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rag","level":5,"composer":"Randall Cunningham","unformatted_composer":"Cunningham, Randall"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in E Major ","level":5,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":5,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"German Song","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Kangaroo","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sunny Italy","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ambiguity ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Now Hear This! ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"On the Brink ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mobile Tones ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Second Wind ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Whole Truth ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Black Puddin’ Jig ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Funkmeister ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hot Noodles ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Menuet I and Menuet II","level":5,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance ","level":5,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Enigma","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Long Ago","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pleasant Journey","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rhythmette","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Serenade","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F sharp Minor ","level":5,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"In a Dream ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Elegie ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"A Sad Loss ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Coastal Reflections ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Journeys ","level":5,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Major ","level":5,"composer":"Alfred Uhl","unformatted_composer":"Uhl, Alfred"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Yes, It’s Blues Time!","level":6,"composer":"Maya Badian","unformatted_composer":"Badian, Maya"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Frelach ","level":6,"composer":"Milton Barnes","unformatted_composer":"Barnes, Milton"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in D Major, op. 6 ","level":6,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scene and Air, from Luisa da Montfort, op. 82","level":6,"composer":"Micha Bergson","unformatted_composer":"Bergson, Micha"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hungarian Dance No. 3 ","level":6,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata, op. 120, no. 1","level":6,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Festival Solo","level":6,"composer":"James Collis","unformatted_composer":"Collis, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude ","level":6,"composer":"Howard Ferguson","unformatted_composer":"Ferguson, Howard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cantilène, op. 64","level":6,"composer":"Paul-Agricole Génin","unformatted_composer":"Génin, Paul-Agricole"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Contrasts and Mordents","level":6,"composer":"Arsenio Giron","unformatted_composer":"Giron, Arsenio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lamento et tarentelle","level":6,"composer":"Gabriel Grovlez","unformatted_composer":"Grovlez, Gabriel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clarinet on the Town","level":6,"composer":"Ralph Hermann","unformatted_composer":"Hermann, Ralph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate","level":6,"composer":"Paul Hindemith","unformatted_composer":"Hindemith, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sholem-alekhem, Rov Feidman!","level":6,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in G Major ","level":6,"composer":"Benedetto Marcello","unformatted_composer":"Marcello, Benedetto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations on a Northern Chinese Folksong","level":6,"composer":"Zhang Wu","unformatted_composer":"Wu, Zhang"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations for Clarinet and Piano","level":6,"composer":"Gerhard Wuensch","unformatted_composer":"Wuensch, Gerhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clarinet Concerto No. 3 ","level":6,"composer":"Johann Melchior Molter","unformatted_composer":"Molter, Johann Melchior"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Doina","level":6,"composer":"León Zuckert","unformatted_composer":"Zuckert, León"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in C Major, K 336 ","level":6,"composer":"León Zuckert","unformatted_composer":"Zuckert, León"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Harlequin","level":6,"composer":"Angela Morley","unformatted_composer":"Morley, Angela"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro, op. 14","level":6,"composer":"Vernon Murgatroyd","unformatted_composer":"Murgatroyd, Vernon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Three Miniatures","level":6,"composer":"Sean Osborn","unformatted_composer":"Osborn, Sean"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Piscoleries","level":6,"composer":"Daniel Pilon","unformatted_composer":"Pilon, Daniel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Suite from ","level":6,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude and Spring","level":6,"composer":"Paul Reade","unformatted_composer":"Reade, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hoe Down, for E flat Clarinet and Piano","level":6,"composer":"Alfred Reed","unformatted_composer":"Reed, Alfred"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro danzante","level":6,"composer":"Nino Rota","unformatted_composer":"Rota, Nino"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Summer Fancy ","level":6,"composer":"William O Smith","unformatted_composer":"Smith, William O"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto in B flat Major ","level":6,"composer":"Johann Stamitz","unformatted_composer":"Stamitz, Johann"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"At the Brook ","level":6,"composer":"Mikhail Starokadomsky","unformatted_composer":"Starokadomsky, Mikhail"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vocalise No. 1","level":6,"composer":"Murray Adaskin","unformatted_composer":"Adaskin, Murray"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Autumn Soliloquy","level":6,"composer":"James Barnes","unformatted_composer":"Barnes, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Jackson’s Island","level":6,"composer":"James Collis","unformatted_composer":"Collis, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Solstice","level":6,"composer":"Clifford Crawley","unformatted_composer":"Crawley, Clifford"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 2 in F Minor, op. 5 ","level":6,"composer":"Bernhard Crusell","unformatted_composer":"Crusell, Bernhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Blues Multiple","level":6,"composer":"Roger Dean","unformatted_composer":"Dean, Roger"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"La fille aux cheveux de lin ","level":6,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Élégie, op. 24 ","level":6,"composer":"Gabriel Fauré","unformatted_composer":"Fauré, Gabriel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Selanka ","level":6,"composer":"Zden Fibich","unformatted_composer":"Fibich, Zden"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tableau, from Le Cid","level":6,"composer":"Jules Massenet","unformatted_composer":"Massenet, Jules"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Windwalker","level":6,"composer":"Elma Miller","unformatted_composer":"Miller, Elma"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante cantabile, from Piano Sonata in C Major,","level":6,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pièce en forme de Habanera ","level":6,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 1 in C Minor, op. 26 ","level":6,"composer":"Ludwig Spohr","unformatted_composer":"Spohr, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Complainte du jeune Indien ","level":6,"composer":"Henri Tomasi","unformatted_composer":"Tomasi, Henri"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"La vita è inferno, from La forza del destino ","level":6,"composer":"Giuseppe Verdi","unformatted_composer":"Verdi, Giuseppe"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":6,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Odd Meter Etude No. 5","level":6,"composer":"Everett Gates","unformatted_composer":"Gates, Everett"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":6,"composer":"Hyacinthe Klosé","unformatted_composer":"Klosé, Hyacinthe"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"At the Fair","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Merry Pranks","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tongue Twister","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Winding Way","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Entanglement ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Helix ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Latin Jive ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Diminishing Returns ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Text Book Prelude ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tongue Twister ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":6,"composer":"Ernst Sachse","unformatted_composer":"Sachse, Ernst"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bald lächeln mir seelige Tage","level":6,"composer":"Anton Stadler","unformatted_composer":"Stadler, Anton"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Courante, from Violin Partita No. 2 in D Minor,","level":6,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D Minor ","level":6,"composer":"Friedrich Demnitz","unformatted_composer":"Demnitz, Friedrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":6,"composer":"Franz Wilhelm Ferling","unformatted_composer":"Ferling, Franz Wilhelm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":6,"composer":"Federigo Fiorillio","unformatted_composer":"Fiorillio, Federigo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasy","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Interrupted Song","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Music Master","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Wistful Thoughts","level":6,"composer":"Leon Lester","unformatted_composer":"Lester, Leon"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Images ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Meditation ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Boo! ","level":6,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":6,"composer":"Alfred Uhl","unformatted_composer":"Uhl, Alfred"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina, op. 29","level":7,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"A Canticle for Ryan, op. 127 [abridged]","level":7,"composer":"Michael Conway Baker","unformatted_composer":"Baker, Michael Conway"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Stick Dance ","level":7,"composer":"Béla Bartók","unformatted_composer":"Bartók, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pulcinella","level":7,"composer":"Eugène Bozza","unformatted_composer":"Bozza, Eugène"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantaisie variée sur un vieil air champêtre","level":7,"composer":"Louis Cahuzac","unformatted_composer":"Cahuzac, Louis"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante et Allegro","level":7,"composer":"Ernest Chausson","unformatted_composer":"Chausson, Ernest"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lied und Csárdás","level":7,"composer":"Emil Cossetto","unformatted_composer":"Cossetto, Emil"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate in B flat Major","level":7,"composer":"Franz Danzi","unformatted_composer":"Danzi, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vals Venezolano and Contradanza","level":7,"composer":"François Devienne","unformatted_composer":"Devienne, François"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"First Concertino ","level":7,"composer":"Georges Guilhaud","unformatted_composer":"Guilhaud, Georges"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adagio and Allegro, from Sonata No. 3 in G Major","level":7,"composer":"George Frideric Handel","unformatted_composer":"Handel, George Frideric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante and Allegro, from Trumpet Concerto, Hob.","level":7,"composer":"Franz Joseph Haydn","unformatted_composer":"Haydn, Franz Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto in B flat Major ","level":7,"composer":"Franz Anton Hoffmeister","unformatted_composer":"Hoffmeister, Franz Anton"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Salute, Signore Rossini!","level":7,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto in E flat Major, op. 36","level":7,"composer":"Franz Krommer","unformatted_composer":"Krommer, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Canzonetta in E flat Major, op. 19","level":7,"composer":"Gabriel Pierné","unformatted_composer":"Pierné, Gabriel"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":7,"composer":"Nino Rota","unformatted_composer":"Rota, Nino"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina, op. 137, no. 1 ","level":7,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 3","level":7,"composer":"Karl Stamitz","unformatted_composer":"Stamitz, Karl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pocket-Size Sonata No. 1","level":7,"composer":"Alec Templeton","unformatted_composer":"Templeton, Alec"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Pocket-Size Sonata No. 2","level":7,"composer":"Alec Templeton","unformatted_composer":"Templeton, Alec"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ah pour ce soir… Je suis Titania, from Mignon","level":7,"composer":"Ambroise Thomas","unformatted_composer":"Thomas, Ambroise"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in B flat Major","level":7,"composer":"Johann Baptist Vanhal","unformatted_composer":"Vanhal, Johann Baptist"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata for Clarinet and Piano","level":7,"composer":"Violet Archer","unformatted_composer":"Archer, Violet"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto militaire, op. 6","level":7,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lied","level":7,"composer":"Luciano Berio","unformatted_composer":"Berio, Luciano"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Elegie","level":7,"composer":"Ferrucio Busoni","unformatted_composer":"Busoni, Ferrucio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Syrinx ","level":7,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantaisie Italienne, op. 110","level":7,"composer":"Marc Delmas","unformatted_composer":"Delmas, Marc"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"My Man’s Gone Now, from Porgy and Bess","level":7,"composer":"George Gershwin","unformatted_composer":"Gershwin, George"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Suite Hébraïque No. 1 B","level":7,"composer":"Srul Irving Glick","unformatted_composer":"Glick, Srul Irving"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude","level":7,"composer":"Anders Hillborg","unformatted_composer":"Hillborg, Anders"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatine for A Clarinet and Piano","level":7,"composer":"Arthur Honegger","unformatted_composer":"Honegger, Arthur"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina for Clarinet","level":7,"composer":"Joseph Horovitz","unformatted_composer":"Horovitz, Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Arabesques","level":7,"composer":"Paul Jeanjean","unformatted_composer":"Jeanjean, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clair matin","level":7,"composer":"Paul Jeanjean","unformatted_composer":"Jeanjean, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Divertimento","level":7,"composer":"Talivaldis Kenins","unformatted_composer":"Kenins, Talivaldis"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bee Navigation","level":7,"composer":"Libby Larsen","unformatted_composer":"Larsen, Libby"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in E flat Major for Clarinet and Piano, op. 167","level":7,"composer":"Camille Saint-Saëns","unformatted_composer":"Saint-Saëns, Camille"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romanze in E flat Major, AV 61","level":7,"composer":"Richard Strauss","unformatted_composer":"Strauss, Richard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Meditation and Dance","level":7,"composer":"Steven Stucky","unformatted_composer":"Stucky, Steven"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":7,"composer":"Margaret Sutherland","unformatted_composer":"Sutherland, Margaret"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concertino in E flat Major, op. 26, J 109 ","level":7,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina for A Clarinet and Piano","level":7,"composer":"Gerhard Wuensch","unformatted_composer":"Wuensch, Gerhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Courante, from Cello Suite No. 1 in G Major,","level":7,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Major ","level":7,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations ","level":7,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":7,"composer":"Franz Wilhelm Ferling","unformatted_composer":"Ferling, Franz Wilhelm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hommage à Johann Sebastian Bach","level":7,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Inside Out ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Nomad ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Oiled Wheels ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Speedbird ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Mr. Pritchard’s Bad Hair Day ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Questions and Answers ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hocus Pocus ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Minor ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D flat Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in E flat Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in E Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F sharp Minor ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G flat Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Major ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Minor Allegro ","level":7,"composer":"James Rae","unformatted_composer":"Rae, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":7,"composer":"Alfred Uhl","unformatted_composer":"Uhl, Alfred"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allemande, from Cello Suite No. 2 in D Minor,","level":7,"composer":"Johann Sebastian Bach","unformatted_composer":"Bach, Johann Sebastian"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Introduction, Theme and Variations ","level":7,"composer":"Carl Baermann","unformatted_composer":"Baermann, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Minor ","level":7,"composer":"Franz Wilhelm Ferling","unformatted_composer":"Ferling, Franz Wilhelm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in E Minor ","level":7,"composer":"Franz Wilhelm Ferling","unformatted_composer":"Ferling, Franz Wilhelm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Odd Meter Etude No. 9","level":7,"composer":"Everett Gates","unformatted_composer":"Gates, Everett"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude No. 60","level":7,"composer":"Paul Harris","unformatted_composer":"Harris, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in A Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in B flat Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in B flat Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in B Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in C sharp Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in D Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in E flat Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in F sharp Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G flat Major ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Etude in G sharp Minor ","level":7,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romance ","level":7,"composer":"Ludwig Wiedemann","unformatted_composer":"Wiedemann, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adelaide, op. 46 ","level":8,"composer":"Ludwig van Beethoven","unformatted_composer":"Beethoven, Ludwig van"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Adagio e tarantella","level":8,"composer":"Ernesto Cavallini","unformatted_composer":"Cavallini, Ernesto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Introduction et air Suédois varié","level":8,"composer":"Bernhard Crusell","unformatted_composer":"Crusell, Bernhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Studie","level":8,"composer":"Gaetano Donizetti","unformatted_composer":"Donizetti, Gaetano"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Morceau de salon","level":8,"composer":"Johann Kalliwoda","unformatted_composer":"Kalliwoda, Johann"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Erwinn Fantasy","level":8,"composer":"Georges Meister","unformatted_composer":"Meister, Georges"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rondo capriccioso, op. 14 ","level":8,"composer":"Felix Mendelssohn","unformatted_composer":"Mendelssohn, Felix"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto in B flat Major","level":8,"composer":"Saverio Mercadante","unformatted_composer":"Mercadante, Saverio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Solo de concours, op. 10","level":8,"composer":"Henri Rabaud","unformatted_composer":"Rabaud, Henri"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate, op. 167","level":8,"composer":"Camille Saint-Saëns","unformatted_composer":"Saint-Saëns, Camille"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Arpeggione sonata [abridged] ","level":8,"composer":"Franz Schubert","unformatted_composer":"Schubert, Franz"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Romances, op. 94","level":8,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata No. 1 in A Minor, op. 105 ","level":8,"composer":"Robert Schumann","unformatted_composer":"Schumann, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Morceau de concert","level":8,"composer":"James Waterson","unformatted_composer":"Waterson, James"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasia and Rondo, from Quintet, op. 34, J 182","level":8,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations on a Theme from the Opera Silvana,","level":8,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasy for Clarinet, op. 87","level":8,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Capriccio","level":8,"composer":"Michael Conway Baker","unformatted_composer":"Baker, Michael Conway"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in B flat Major","level":8,"composer":"Arnold Bax","unformatted_composer":"Bax, Arnold"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Arlequin","level":8,"composer":"Louis Cahuzac","unformatted_composer":"Cahuzac, Louis"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Variations sur un air du pays d’oc","level":8,"composer":"Louis Cahuzac","unformatted_composer":"Cahuzac, Louis"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Forlana and Fughetta","level":8,"composer":"Gerald Finzi","unformatted_composer":"Finzi, Gerald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tonada y Cueca","level":8,"composer":"Carlos Guastavino","unformatted_composer":"Guastavino, Carlos"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasy","level":8,"composer":"Howard Hanson","unformatted_composer":"Hanson, Howard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina","level":8,"composer":"Jocelyn Morlock","unformatted_composer":"Morlock, Jocelyn"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Étude pour clarinette seule","level":8,"composer":"Bruce Mather","unformatted_composer":"Mather, Bruce"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Duo concertant","level":8,"composer":"Darius Milhaud","unformatted_composer":"Milhaud, Darius"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rhapsody","level":8,"composer":"Willson Osborne","unformatted_composer":"Osborne, Willson"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cantilena “Veni Creator Spiritus”","level":8,"composer":"Norbert Palej","unformatted_composer":"Palej, Norbert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Three Miniatures","level":8,"composer":"Krzysztof Penderecki","unformatted_composer":"Penderecki, Krzysztof"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Peregi verbunk, op. 40","level":8,"composer":"Leó Weiner","unformatted_composer":"Weiner, Leó"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":8,"composer":"Alec Wilder","unformatted_composer":"Wilder, Alec"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dance, Improvisation and Song","level":8,"composer":"John Hawkins","unformatted_composer":"Hawkins, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Viktor’s Tale, from The Terminal","level":8,"composer":"John Williams","unformatted_composer":"Williams, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate","level":8,"composer":"Paul Hindemith","unformatted_composer":"Hindemith, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina for Clarinet","level":8,"composer":"Joseph Horovitz","unformatted_composer":"Horovitz, Joseph"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Capriccio for A Clarinet and Piano","level":8,"composer":"An-Lun Huang","unformatted_composer":"Huang, An-Lun"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Aria, Theme and Variations after Paganini’s Moses","level":8,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Armenian Lament and Dance","level":8,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After You, Mr. Gershwin!","level":8,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hommage à Béla Bartók","level":8,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hommage à Carl Maria von Weber","level":8,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Duo for Clarinet and Piano, op. 15","level":9,"composer":"Rudolf Jettel","unformatted_composer":"Jettel, Rudolf"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 1 in E flat Major, op. 1","level":9,"composer":"Berhard Crusell","unformatted_composer":"Crusell, Berhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 2 in F Minor, op. 5","level":9,"composer":"Berhard Crusell","unformatted_composer":"Crusell, Berhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 3 in B flat Major, op. 11","level":9,"composer":"Berhard Crusell","unformatted_composer":"Crusell, Berhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Introduction, Theme and Variations ","level":9,"composer":"Berhard Crusell","unformatted_composer":"Crusell, Berhard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata, op. 14","level":9,"composer":"Daniel Gregory Mason","unformatted_composer":"Mason, Daniel Gregory"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Allegro brillant, op. 92 ","level":9,"composer":"Felix Mendelssohn","unformatted_composer":"Mendelssohn, Felix"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Solo de concours","level":9,"composer":"André Messager","unformatted_composer":"Messager, André"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bell raggio lusinghier, from Semiramide ","level":9,"composer":"Gioachino Rossini","unformatted_composer":"Rossini, Gioachino"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata for Clarinet and Piano, op. 129 S","level":9,"composer":"Charles Villiers Stanford","unformatted_composer":"Stanford, Charles Villiers"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Rigoletto","level":9,"composer":"Giuseppe Verdi","unformatted_composer":"Verdi, Giuseppe"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Andante e Rondo ungarese, op. 35, J 158 ","level":9,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 1 in F Minor, op. 73, J 114","level":9,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prélude à l’après-midi d’un faune ","level":9,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata No. 2, op. 139b","level":9,"composer":"Sigfrid Karg-Elert","unformatted_composer":"Karg-Elert, Sigfrid"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Zarabandeo","level":9,"composer":"Arturo Marquez","unformatted_composer":"Marquez, Arturo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scaramouche","level":9,"composer":"Darius Milhaud","unformatted_composer":"Milhaud, Darius"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Images entre nous","level":9,"composer":"Phil Nimmons","unformatted_composer":"Nimmons, Phil"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Introduction et rondo","level":9,"composer":"Charles-Marie Widor","unformatted_composer":"Widor, Charles-Marie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata for E flat Clarinet and Piano","level":9,"composer":"Sean Osborn","unformatted_composer":"Osborn, Sean"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina, op. 29","level":9,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Le tombeau de Ravel","level":9,"composer":"Arthur Benjamin","unformatted_composer":"Benjamin, Arthur"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata, op. 63","level":9,"composer":"Niels Viggo Bentzon","unformatted_composer":"Bentzon, Niels Viggo"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":9,"composer":"Leonard Bernstein","unformatted_composer":"Bernstein, Leonard"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatina for E flat Clarinet and Piano, op. 38","level":9,"composer":"Easley Blackwood","unformatted_composer":"Blackwood, Easley"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Denneriana","level":9,"composer":"André Bloch","unformatted_composer":"Bloch, André"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata, op. 109","level":9,"composer":"York Bowen","unformatted_composer":"Bowen, York"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Bucolique","level":9,"composer":"Eugène Bozza","unformatted_composer":"Bozza, Eugène"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concertino, op. 48, BV 276","level":9,"composer":"Ferrucio Busoni","unformatted_composer":"Busoni, Ferrucio"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Egyptian Ma-wal","level":9,"composer":"Ali Osman","unformatted_composer":"Osman, Ali"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":9,"composer":"Francis Poulenc","unformatted_composer":"Poulenc, Francis"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Weather Inside","level":9,"composer":"Don Ross","unformatted_composer":"Ross, Don"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dante Dances","level":9,"composer":"Dan Welcher","unformatted_composer":"Welcher, Dan"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Chinese Ancient Dances","level":9,"composer":"Chen Yi","unformatted_composer":"Yi, Chen"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"I Got Rhythm","level":9,"composer":"Paul Harvey","unformatted_composer":"Harvey, Paul"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Prelude","level":9,"composer":"Krzysztof Penderecki","unformatted_composer":"Penderecki, Krzysztof"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Parable","level":9,"composer":"Vincent Persichetti","unformatted_composer":"Persichetti, Vincent"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Ixor","level":9,"composer":"Giacinto Scelsi","unformatted_composer":"Scelsi, Giacinto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Little Suite of Four Dances for E flat Clarinet and","level":9,"composer":"Giacinto Scelsi","unformatted_composer":"Scelsi, Giacinto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Scurry ","level":9,"composer":"Giacinto Scelsi","unformatted_composer":"Scelsi, Giacinto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hommage à Manuel de Falla","level":9,"composer":"Giacinto Scelsi","unformatted_composer":"Scelsi, Giacinto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Abîme des oiseaux, from Quatuor pour le fin du temps","level":9,"composer":"Olivier Messiaen","unformatted_composer":"Messiaen, Olivier"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Capriccio","level":9,"composer":"Heinrich Sutermeister","unformatted_composer":"Sutermeister, Heinrich"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonatine attique","level":9,"composer":"Henri Tomasi","unformatted_composer":"Tomasi, Henri"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Monologue ","level":9,"composer":"Chen Yi","unformatted_composer":"Yi, Chen"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After Milhaud “Scaramouche” ","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After Prokofieff “Overture on Hebrew Themes”","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After Rimsky-Korsakov “Scheherazade” ","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After Schoenberg “Pierrot lunaire” ","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After Shostakovich “Symphony No. 1” ","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"After William Schuman “Symphony No. 3” ","level":9,"composer":"Victor Polatschek","unformatted_composer":"Polatschek, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clarinet Concerto No. 2","level":10,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto for Clarinet and Strings","level":10,"composer":"Malcolm Arnold","unformatted_composer":"Arnold, Malcolm"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto","level":10,"composer":"Aaron Copland","unformatted_composer":"Copland, Aaron"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto, op. 31","level":10,"composer":"Gerald Finzi","unformatted_composer":"Finzi, Gerald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto","level":10,"composer":"Jean Francaix","unformatted_composer":"Francaix, Jean"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto","level":10,"composer":"Katherine Hoover","unformatted_composer":"Hoover, Katherine"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto, op. 110","level":10,"composer":"Lowell Liebermann","unformatted_composer":"Liebermann, Lowell"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto for Clarinet","level":10,"composer":"Oskar Morawetz","unformatted_composer":"Morawetz, Oskar"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto, K 622","level":10,"composer":"Wolfgang Amadeus Mozart","unformatted_composer":"Mozart, Wolfgang Amadeus"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto, op. 57","level":10,"composer":"Carl Nielsen","unformatted_composer":"Nielsen, Carl"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto","level":10,"composer":"Artie Shaw","unformatted_composer":"Shaw, Artie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 1, op. 26","level":10,"composer":"Ludwig Spohr","unformatted_composer":"Spohr, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 2, op. 57","level":10,"composer":"Ludwig Spohr","unformatted_composer":"Spohr, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 3, WoO 19","level":10,"composer":"Ludwig Spohr","unformatted_composer":"Spohr, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 4, WoO 20","level":10,"composer":"Ludwig Spohr","unformatted_composer":"Spohr, Ludwig"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Soliloquies","level":10,"composer":"Leslie Bassett","unformatted_composer":"Bassett, Leslie"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sequenza IXa","level":10,"composer":"Luciano Berio","unformatted_composer":"Berio, Luciano"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gra","level":10,"composer":"Elliott Carter","unformatted_composer":"Carter, Elliott"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate for Clarinet Solo","level":10,"composer":"Edison Denisov","unformatted_composer":"Denisov, Edison"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"La naissance d’un papillon","level":10,"composer":"Yvonne Desportes","unformatted_composer":"Desportes, Yvonne"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clair","level":10,"composer":"Franco Donatoni","unformatted_composer":"Donatoni, Franco"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Lines","level":10,"composer":"Harry Freedman","unformatted_composer":"Freedman, Harry"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate, op. 110","level":10,"composer":"Sigfrid Karg-Elert","unformatted_composer":"Karg-Elert, Sigfrid"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hommage à Richard Strauss","level":10,"composer":"Béla Kovács","unformatted_composer":"Kovács, Béla"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Dancing Solo","level":10,"composer":"Libby Larsen","unformatted_composer":"Larsen, Libby"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Folk Songs","level":10,"composer":"Eric Mandat","unformatted_composer":"Mandat, Eric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"The Jungle","level":10,"composer":"Eric Mandat","unformatted_composer":"Mandat, Eric"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"A Set For Clarinet","level":10,"composer":"Donald Martino","unformatted_composer":"Martino, Donald"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Three Studies on Flight","level":10,"composer":"Russell Riepe","unformatted_composer":"Riepe, Russell"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata for Clarinet Solo, op. 41","level":10,"composer":"Miklos Rozsa","unformatted_composer":"Rozsa, Miklos"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cinco bocetos","level":10,"composer":"Roberto Sierra","unformatted_composer":"Sierra, Roberto"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Five Pieces for Clarinet Solo","level":10,"composer":"William O Smith","unformatted_composer":"Smith, William O"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Three Pieces for Clarinet Solo","level":10,"composer":"Igor Stravinsky","unformatted_composer":"Stravinsky, Igor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Wings","level":10,"composer":"Joan Tower","unformatted_composer":"Tower, Joan"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Cadenza","level":10,"composer":"John Weinzweig","unformatted_composer":"Weinzweig, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasie","level":10,"composer":"Jörg Widmann","unformatted_composer":"Widmann, Jörg"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto","level":10,"composer":"Henri Tomasi","unformatted_composer":"Tomasi, Henri"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Clarinet Concerto","level":10,"composer":"Joan Tower","unformatted_composer":"Tower, Joan"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Concerto No. 2 in E flat Major, op. 74, J 118","level":10,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Hillandale Waltzes","level":10,"composer":"Victor Babin","unformatted_composer":"Babin, Victor"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Vier Stücke, op. 5","level":10,"composer":"Alban Berg","unformatted_composer":"Berg, Alban"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Gypsy Dance, from Carmen ","level":10,"composer":"Georges Bizet","unformatted_composer":"Bizet, Georges"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":10,"composer":"Easley Blackwood","unformatted_composer":"Blackwood, Easley"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in E flat Major, op. 120, no. 2 ","level":10,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in F Minor, op. 120, no. 1","level":10,"composer":"Johannes Brahms","unformatted_composer":"Brahms, Johannes"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata, op. 128","level":10,"composer":"Mario Castelnuovo-Tedesco","unformatted_composer":"Castelnuovo-Tedesco, Mario"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Three Movements","level":10,"composer":"Ka Nin Chan","unformatted_composer":"Chan, Ka Nin"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Première rhapsodie","level":10,"composer":"Claude Debussy","unformatted_composer":"Debussy, Claude"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Tema con variazioni","level":10,"composer":"Jean Francaix","unformatted_composer":"Francaix, Jean"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Fantasy-Sonata","level":10,"composer":"John Ireland","unformatted_composer":"Ireland, John"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata in G Major for A Clarinet and Piano","level":10,"composer":"Gustav Jenner","unformatted_composer":"Jenner, Gustav"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonata","level":10,"composer":"Oskar Morawetz","unformatted_composer":"Morawetz, Oskar"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Time Pieces","level":10,"composer":"Robert Muczynski","unformatted_composer":"Muczynski, Robert"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate, op. 49, no. 1","level":10,"composer":"Max Reger","unformatted_composer":"Reger, Max"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Sonate, op. 49, no. 2","level":10,"composer":"Max Reger","unformatted_composer":"Reger, Max"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Introduction, Theme and Variations","level":10,"composer":"Gioacchino Rossini","unformatted_composer":"Rossini, Gioacchino"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Carmen fantaisie, op. 25 ","level":10,"composer":"Pablo de Sarasate","unformatted_composer":"Sarasate, Pablo de"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Zigeunerweisen, op. 20 ","level":10,"composer":"Pablo de Sarasate","unformatted_composer":"Sarasate, Pablo de"}}
+{"json_class":"Piece","data":{"instrument":"clarinet","name":"Grand duo concertante, op. 48, J 204","level":10,"composer":"Carl Maria von Weber","unformatted_composer":"Weber, Carl Maria von"}}

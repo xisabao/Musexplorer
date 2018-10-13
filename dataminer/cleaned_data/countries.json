@@ -1,0 +1,160 @@
+{
+  "records": [
+    {
+      "sprig_id": 1,
+      "name": "German"
+    },
+    {
+      "sprig_id": 2,
+      "name": "Belgian"
+    },
+    {
+      "sprig_id": 3,
+      "name": "French"
+    },
+    {
+      "sprig_id": 4,
+      "name": "American"
+    },
+    {
+      "sprig_id": 5,
+      "name": "Austrian"
+    },
+    {
+      "sprig_id": 6,
+      "name": "Hungarian"
+    },
+    {
+      "sprig_id": 7,
+      "name": "Japanese"
+    },
+    {
+      "sprig_id": 8,
+      "name": "English"
+    },
+    {
+      "sprig_id": 9,
+      "name": "Czech"
+    },
+    {
+      "sprig_id": 10,
+      "name": "Russian"
+    },
+    {
+      "sprig_id": 11,
+      "name": "Polish"
+    },
+    {
+      "sprig_id": 12,
+      "name": "Italian"
+    },
+    {
+      "sprig_id": 13,
+      "name": "Irish"
+    },
+    {
+      "sprig_id": 14,
+      "name": "Scottish"
+    },
+    {
+      "sprig_id": 15,
+      "name": "Finnish"
+    },
+    {
+      "sprig_id": 16,
+      "name": "Dutch"
+    },
+    {
+      "sprig_id": 17,
+      "name": "Mexican"
+    },
+    {
+      "sprig_id": 18,
+      "name": "Swiss"
+    },
+    {
+      "sprig_id": 19,
+      "name": "Norwegian"
+    },
+    {
+      "sprig_id": 20,
+      "name": "Soviet"
+    },
+    {
+      "sprig_id": 21,
+      "name": "Spanish"
+    },
+    {
+      "sprig_id": 22,
+      "name": "Argentinian"
+    },
+    {
+      "sprig_id": 23,
+      "name": "Canadian"
+    },
+    {
+      "sprig_id": 24,
+      "name": "Cuban"
+    },
+    {
+      "sprig_id": 25,
+      "name": "Danish"
+    },
+    {
+      "sprig_id": 26,
+      "name": "Swedish"
+    },
+    {
+      "sprig_id": 27,
+      "name": "Welsh"
+    },
+    {
+      "sprig_id": 28,
+      "name": "Australian"
+    },
+    {
+      "sprig_id": 29,
+      "name": "Chinese"
+    },
+    {
+      "sprig_id": 30,
+      "name": "Brazilian"
+    },
+    {
+      "sprig_id": 31,
+      "name": "Liechtensteinian"
+    },
+    {
+      "sprig_id": 32,
+      "name": "Paraguayan"
+    },
+    {
+      "sprig_id": 33,
+      "name": "Catalan"
+    },
+    {
+      "sprig_id": 34,
+      "name": "Armenian"
+    },
+    {
+      "sprig_id": 35,
+      "name": "Ukrainian"
+    },
+    {
+      "sprig_id": 36,
+      "name": "Portuguese"
+    },
+    {
+      "sprig_id": 37,
+      "name": "Bulgarian"
+    },
+    {
+      "sprig_id": 38,
+      "name": "Romanian"
+    },
+    {
+      "sprig_id": 39,
+      "name": "Venezuelan"
+    }
+  ]
+}

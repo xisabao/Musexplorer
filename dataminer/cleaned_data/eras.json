@@ -1,0 +1,32 @@
+{
+  "records": [
+    {
+      "sprig_id": 1,
+      "name": "Baroque"
+    },
+    {
+      "sprig_id": 2,
+      "name": "Romantic"
+    },
+    {
+      "sprig_id": 3,
+      "name": "Classical"
+    },
+    {
+      "sprig_id": 4,
+      "name": "Early"
+    },
+    {
+      "sprig_id": 5,
+      "name": "Renaissance"
+    },
+    {
+      "sprig_id": 6,
+      "name": "Modern"
+    },
+    {
+      "sprig_id": 7,
+      "name": "Ancient"
+    }
+  ]
+}

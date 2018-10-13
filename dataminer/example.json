@@ -1,0 +1,28 @@
+{
+	"name": "Fur Elise",
+	"opus": 59,
+	"level": 6,
+	"minutes": 3,
+	"concerto": false,
+	"solo": true, // If there is no accompaniment, this is true
+	"free": true,
+	// Sheet music link is IMSLP if you can find it (then you set free to true)
+	// or to Sheet Music Plus affiliate link if you can't (set free to false)
+	"sheet_music_link": "http://imslp.org/wiki/F%C3%BCr_Elise,_WoO_59_(Beethoven,_Ludwig_van)",
+	// Must be Youtube iframe (unfortunately this does mean quotes need to be escaped)
+	"youtube_embed": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/8zPkWVqdJXI\" frameborder=\"0\" allowfullscreen></iframe>",
+	"instruments": ["piano"],
+	"composer": {
+		"name": "Ludwig van Beethoven", 
+		"countries": ["Germany"],
+		"eras": ["Classical", "Romantic"],
+		// This is the first paragraph of the Wikipedia article, with pronunciation and annotations parsed out
+		"description": "Ludwig van Beethoven (baptised 17 December 1770 – 26 March 1827) was a German composer and pianist. 
+						A crucial figure in the transition between the Classical and Romantic eras in Western art music, 
+						he remains one of the most famous and influential of all composers. His best-known 
+						compositions include 9 symphonies, 5 concertos for piano, 1 violin concerto, 32 piano sonatas, 
+						and 16 string quartets. He also composed other chamber music, choral works 
+						(including the celebrated Missa solemnis), and songs.",
+		"wikipedia_link": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven"
+	}
+}
