@@ -1,0 +1,16 @@
+<h1 class="page-title">Post Search Results</h1>
+<div class="page-container">
+	<div class="results">
+		<% if @search %>
+				<% @search.each_hit_with_result do |hit, result| %>
+					<div class="piece-title"><%= link_to result.title, category_post_path(id: result.id, category_id: result.categories.first.id) %></div>
+					<div class="piece-composer"><%= link_to result.user.username, result.user %></div>
+					<div class="piece-instruments"><%= result.timestamp.strftime("%m/%d/%Y") %></div>
+					<hr>
+				<% end %> 
+				<% if @search.hits.length == 0 %>
+					<p>No results found</p>
+				<% end %>
+			<% end %>
+	</div>
+</div>

@@ -1,0 +1,5 @@
+<%= form_for([@category, @post, @reply], html: { class: "reply-form" }) do |f| %>
+	<%= f.text_area :body %>
+
+	<%= f.submit 'Reply' %>
+<% end %>

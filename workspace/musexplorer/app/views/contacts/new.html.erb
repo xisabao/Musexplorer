@@ -1,0 +1,24 @@
+<h1 class="page-title">Contact Us!</h1>
+<p class="contact-description">Musexplorer is always looking for more members - any skill set is welcome! We're still in beta, so if you see any bugs, please contact us.<br><br>
+If you'd like to help with our beta testing period, filling out <a href="https://docs.google.com/forms/d/1VzLhCYw844ZjMRuUP7AFsvaG0fQ3dD2wOAYwXbxi8Gk/viewform" target="_blank">this feedback form</a> would really be appreciated!
+</p>
+<div class="contact-form">
+<%= form_for @contact do |f| %>
+	<%= f.label :name %>
+	<%= f.text_field :name %>
+
+	<%= f.label :email %>
+	<%= f.text_field :email %>
+
+	<%= f.label :message %>
+	<%= f.text_area :message, rows: "8" %>
+
+	<div class="hidden">
+		<%= f.text_field :nickname %>
+	</div>
+	<div>
+	<br>
+	<%= f.submit 'Send message' %>
+	</div>
+	<% end %>
+	</div>

@@ -1,0 +1,90 @@
+// Place all the styles related to the Posts controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+//breadcrumb
+.teacher {
+	font-size: 0.8em;
+}
+.sidebar {
+	float: left;
+	@include span-columns(3);
+	ul {
+		list-style-type: none;
+	}
+	.post-detail {
+		
+	}
+	.edit-delete-post {
+		font-size: 14px;
+		font-style: italic;
+		a {
+			color: #888;
+		}
+	}
+	.associated-pieces {
+		margin-top: 2em;
+	}
+	.breadcrumb {   
+		margin-bottom: 2em;
+	}
+}
+.votes-col {
+	@include span-columns(1);
+	@include omega();
+	float: left;
+
+
+	.vote {
+		text-align: center;
+	}
+	.arrow {
+		padding-top: 0.3em;
+	}
+}
+.username a {
+			font-weight: 600;
+}
+.post-body {
+	@include span-columns(8);
+	float: left;
+}
+.post-replies-container {
+	clear: both;
+	margin-left: 4em;
+	.reply-votes {
+
+	}
+	.post-replies {
+		@include span-columns(8);
+	}
+	.reply-form {
+
+		@include span-columns(6);
+		float: left;
+	}
+	.reply {
+		margin-top: 2em;
+		.reply-body {
+			min-height: 5em;
+		}
+
+		.reply-detail {
+			margin-left: -0.2em;
+			font-size: 14px;
+			font-style: italic;
+			margin-bottom: 1em;
+			a {
+				color: #888;
+			}
+			.date {
+				margin-left: 1em;
+			}
+		}
+	}
+}
+.post-form {
+	@include span-columns(8);
+	.piece-select-container {
+		margin-bottom: 2em;
+	}
+}

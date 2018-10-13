@@ -1,0 +1,40 @@
+// Place all the styles related to the Tags controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.tag-cell {
+
+	.tag-pieces {
+		color: #888;
+		text-size: 0.8em;
+	}
+}
+
+.tag-show-container {
+	@include span-columns(8);
+	margin: 1em 2em;
+	clear: both;
+	margin-bottom: 5em;
+	.piece {
+		@include row();
+		padding-bottom: 1em;
+		clear:both;
+		.piece-name {
+			float: left;
+			display: inline-block;
+		}
+		.piece-composer {
+			margin-left: 2em;
+			display: inline-block;
+		}
+		.piece-instruments {
+			float: right; 
+			display: inline-block;
+		}
+		.piece-votes {
+			color: #888;
+			float: left;
+			display: inline-block;
+			margin-right: 1em;
+		}
+	}
+}

@@ -1,0 +1,118 @@
+<h1 class="page-title"><%= @piece.name %></h1>
+<div class="page-container">
+	<% if user_signed_in? %>
+		<% if !current_user.pieces.include?(@piece) %>
+			<button class="user-pieces-button"><%= link_to 'Add to your piece history', add_piece_user_path(user_id: current_user.id, piece_id: @piece.id), method: :post %></button>
+		<% else %>
+			<button class="user-pieces-button"><%= link_to 'Delete from your piece history', delete_piece_user_path(user_id: current_user.id, piece_id: @piece.id), method: :delete %></button>
+		<% end %>
+	<% end %>
+	<div class="piece-video">
+		<%= raw @piece.youtube_embed %>
+	</div>
+	<div class="piece-detail">
+		<ul>
+			<li>Instruments: <%@piece.instruments.each do |i| %> <%= i.name.capitalize %> <% end %></li>
+			<% if @piece.opus %><li>Opus: <%= @piece.opus %></li><% end %>
+			<li>Composer: <%= @piece.composer.name %><%#= link_to @piece.composer.name, @piece.composer %></li>
+			<li>Era: <% @piece.composer.eras.each do |e| %><%= e.name.capitalize %> <% end %></li>
+			<li>Nationality: <% @piece.composer.countries.each do |c| %><%= c.name.capitalize %> <% end %></li>
+			<li>Level: <%= @piece.level %></li>
+			<li>Length: <%= @piece.minutes %> minutes</li>
+			<% if @piece.concerto %><li>Concerto</li><% end %>
+		</ul>
+		<% if @piece.sheet_music_link %>
+			<%= link_to "Get sheet music", @piece.sheet_music_link, { class: "sheet-music-link", target: "_blank" } %>
+		<% end %>
+
+		<%= render 'shared/flag_form' %>
+</div>
+
+	<div class="tag-container">
+	<% if !@taggings.empty?%>
+
+			<h4>Tags</h4>
+			<div class="tag-list">
+			<% @taggings.each do |tagging| %>
+				<div class="tag">
+				<%= link_to tagging.tag.name, tagging.tag %> 
+				<% if user_signed_in? %>
+				<div class="piece-votes-col">
+					<div class="vote-inline"><%= link_to image_tag("icons/plus.png", size: '16'), vote_tagging_path(tagging, vote: true), method: :post if user_signed_in? %></div>
+					<div class="vote-inline"><%= tagging.total_votes %></div>
+					<div class="vote-inline"><%= link_to image_tag("icons/minus.png", size: '16'), vote_tagging_path(tagging, vote: false), method: :post if user_signed_in?%></div>
+				</div>
+				<% end %>
+				</div>
+			<% end %>
+			</div>
+	<% end %>
+	<% if user_signed_in? %>
+	<%= form_tag({ controller: "tags", action: "new"}, {method: "post", class: "tag-form"}) do %>
+		<%= label_tag :name, "New tag" %>
+		<%= text_field_tag :name %>
+
+		<%= submit_tag "Add" %>
+	<% end %>
+	<% end %>
+	</div>
+	<hr class="hr-piece">
+	<div class="tip-container">
+		<h4>Tips</h4>
+		<% if user_signed_in? %>
+		<%= form_for @tip, url: tips_path(@tip), html: { method: :post, class: "tip-form" } do |f| %>
+			<%= f.text_area :body %>
+
+			<%= f.hidden_field :piece_id, value: @piece.id %>
+			<%= f.submit %>
+		<% end %>
+		<% else %>
+			<p><%= link_to "Sign in", new_user_session_path %> or <%= link_to "sign up",new_user_registration_path %> to post something.</p>
+		<% end %>
+		<div class="piece-tips">
+			<% if @tips.length == 0 %>
+				<p>Nothing posted yet...</p>
+			<% end %>
+			<% @tips.each do |tip| %>
+				<div class="tip">
+				<div class="votes-col">
+					<div class="vote arrow"><%= link_to image_tag("icons/arrow_up.png", size: '24'), vote_tip_path(tip, vote: true), method: :post if user_signed_in?%></div>
+					<div class="vote"><%= tip.total_votes %></div>
+					<div class="vote arrow"><%= link_to image_tag("icons/arrow_down.png", size: '24'), vote_tip_path(tip, vote: false), method: :post if user_signed_in? %></div>
+				</div>
+				<span class="username"><%= link_to tip.user.username, tip.user %></span> -
+				<span class="teacher"><%= tip.user.teacher.capitalize %></span>
+				<div class="tip-body"><%= tip.body %> </div>
+				<div class="tip-detail">
+					<%= link_to "Delete", tip_path(tip), method: :delete if tip.user == current_user %>
+					<span class="date">
+						<% if (Time.now - tip.created_at) > 1.month %>
+							<%= tip.created_at.strftime("%b %d, %Y") %>
+						<% else %>
+							<%= time_ago_in_words(tip.created_at) %> ago
+						<% end %>
+					</span>
+				</div>
+				</div>
+				<div class="h-line"></div>
+			<% end %>
+		</div>
+	</div>
+	<!-- <div class="post-container">
+		<h4>Posts</h4>
+		 if @piece.posts.length == 0 %>
+			<p>Nothing posted yet...</p>
+		 end %>
+			<div class="post-list">
+				 @piece.posts.each do |p| %>
+					<div class="post-list-item">
+					 link_to p.title, category_post_path(category_id: p.categories.first.id, id: p.id) %> | 
+					%= link_to p.user.username, p.user %> 
+					<span class="date">
+						%= time_ago_in_words(p.created_at) %> ago
+					</span>
+					</div>
+				< end %>
+			</div>
+	</div> -->
+</div>

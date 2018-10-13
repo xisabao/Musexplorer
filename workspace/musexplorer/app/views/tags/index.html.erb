@@ -1,0 +1,21 @@
+<h1 class="page-title">All Tags</h1>
+<div class="page-container">
+	<div class="tag-container">
+	<table class="tags-table">
+	<tbody>
+	<% @tags.each_with_index do |tag, i| %>
+		<% if i % 4 == 0 %>
+			<tr>
+		<% end %>
+		<td class="tag-cell">
+			<span class="tag-name"><%= link_to tag.name, tag %></span>
+			<span class="tag-pieces"> x <%= tag.taggings.length %></span>
+		</td>
+		<% if i % 3 == 0 && i != 0 %>
+			</tr>
+		<% end %>
+	<% end %>
+	</tbody>
+	</table>
+	</div>
+</div>

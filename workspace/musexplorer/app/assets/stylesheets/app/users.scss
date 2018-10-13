@@ -1,0 +1,39 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.user-container {
+	@include span-columns(11);
+	margin-left: 2em;
+	.user-details {
+		border: 1px solid #DDD;
+		padding: 1em;
+		margin-bottom: 2em;
+		.user-description {
+			margin-top: 1em;
+		}
+	}
+	.user-post-container {
+		margin-bottom: 2em;
+	}
+	.user-piece-container {
+		@include span-columns(6);
+	.delete {
+		float: right;
+		text-decoration: italic;
+		a {
+			color: #888;
+		}
+	}
+}
+}
+.user-reply-container { 
+	clear: both;
+	margin-bottom: 2em;
+	.reply {
+		margin-bottom: 2em;
+	}
+}
+.user-form {
+	@include span-columns(10);
+}

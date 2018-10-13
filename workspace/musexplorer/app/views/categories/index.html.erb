@@ -1,0 +1,19 @@
+<h1 class="page-title">Community</h1>
+<%= form_tag({controller: "posts", action: "search"}, {method: :get, class: 'search-bar'}) do %>
+		<%= search_field_tag :keywords, nil, placeholder: "Enter keywords" %>
+
+		<%= submit_tag "Search" %>
+	<% end %>
+<div class="page-container">
+<div class="category-container">
+<% @categories.each do |c| %>
+	<div class="category-post">
+		<h3><%= link_to c.name, c %></h3>
+		<p class="category-post-description"><%= c.description %></p>
+		<p class="category-post-detail">Posts: <%= c.posts.count %></p>
+
+	</div>
+	<hr>
+<% end %>
+</div>
+</div>

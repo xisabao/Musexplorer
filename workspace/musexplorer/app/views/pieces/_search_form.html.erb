@@ -1,0 +1,86 @@
+<h1 class="page-title">Find a New Piece</h1>
+<%= form_tag({controller: "pieces", action: "search_results"}, {method: "get", class: "pieces-search-form"}) do %>
+<table>
+<tr>
+<td>
+	<%= label_tag :instruments %>
+	<%= select_tag :instruments, options_from_collection_for_select(@instruments, :id, :names_for_select), { multiple: true, class: "instruments-select" } %>
+	</td>
+
+	<td>
+	<div class="levels-label" title="Levels generally correspond to RCM standards."><%= label_tag 'Level' %> Levels <span class="levels-range"></span></div>
+	<div class="levels-slider"></div>
+
+	<%= hidden_field_tag 'levels[min]' %>
+	<%= hidden_field_tag 'levels[max]' %>
+
+	<%= label_tag :piece_history, "Calculate your level based on pieces you've already played:" %>
+	<% if user_signed_in? %>
+		<div class="checkbox">
+			<%= check_box_tag :piece_history %>
+		</div>
+	<% else %>
+		<p>Please <%= link_to 'sign up', new_user_registration_path %> or <%= link_to 'sign in', new_user_session_path %> to start adding to your piece history.</p>
+	<% end %>
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<%= label_tag :era %>
+	<% Era.all_eras.each do |era| %>
+		<div class="checkbox">
+		<%= label_tag era %>
+		<%= check_box_tag "eras[]", era, false, { class: "era" } %>
+		</div>
+	<% end %>
+	<label>Select All</label>
+	<input type="checkbox" class="select-all-eras">
+	</td>
+	<td>
+	<%= label_tag :country %>
+	<% Country.all_countries.each do |country| %>
+		<div class="checkbox">
+		<%= label_tag country %>
+		<%= check_box_tag "countries[]", country, false, { class: "country" } %>
+		</div>
+	<% end %>
+	<label>Select All</label>
+	<input type="checkbox" class="select-all-countries">
+
+	</td>
+	</tr>
+	<tr>
+	<td>
+	<div class="minutes-label"><%= label_tag 'Length' %><span class="minutes-range"></span> minutes</div>
+	<div class="minutes-slider"></div>
+
+	<%= hidden_field_tag 'minutes[min]' %>
+	<%= hidden_field_tag 'minutes[max]' %>
+	</td>
+	<td>
+	<div class="checkbox" title="Is the piece considered to be standard concerto repertoire?">	
+	<%= label_tag :concerto, 'Concerto?' %>
+	<%= check_box_tag :concerto %>
+	</div>
+<!-- 	<div class="checkbox" title="Is the piece unaccompanied? (Field irrelevant if for solo piano)">
+	<%= label_tag :solo, 'Solo?' %>
+	<%= check_box_tag :solo %>
+	</div> -->
+	<div class="checkbox" title="Is the sheet music available for free online?">
+	<%= label_tag :free, 'Free?' %>
+	<%= check_box_tag :free %>
+	</div>
+	</td>
+	</tr>
+
+	<tr>
+	<td>
+	<%= label_tag :tags %>
+	<%= select_tag :tags, options_from_collection_for_select(@tags, :id, :names_for_select), { multiple: true, class: "tags-select" } %>
+	</td>
+	<td>
+	<%= submit_tag "Search", { class: "search-submit" } %>
+	</td>
+	</tr>
+	</table>
+<% end %>

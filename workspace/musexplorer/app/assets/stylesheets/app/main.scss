@@ -1,0 +1,55 @@
+$mobile: new-breakpoint(max-width 600px 4);
+@import "categories";
+@import "flash";
+@import "footer";
+@import "home";
+@import "nav";
+@import "pieces";
+@import "posts";
+@import "replies";
+@import "static_pages";
+@import "taggings";
+@import "tags";
+@import "tips";
+@import "users";
+@import "devise";
+@import "contacts";
+@import "ads";
+@import "flags";
+@import "loading";
+
+html {
+	min-height: 100%;
+	position: relative;
+}
+
+body {
+	height: 100%;
+}
+
+.stop-scrolling {
+	height: 100%;
+	overflow: hidden;
+}
+.page-title {
+	font-size: 2em;
+	font-weight: 200;	
+	text-align: center;
+	margin: 0;
+}
+.content {
+	@include outer-container(100%);
+}
+.page-container {
+	margin: 2em 0 10em 0;
+	@include span-columns(11);
+	@include shift(1);
+	min-height: 26em;
+}
+
+textarea {
+	resize: none;
+}
+.hidden {
+	display: none;
+}

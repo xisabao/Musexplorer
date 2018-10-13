@@ -1,0 +1,33 @@
+nav {
+	@include outer-container;
+	@include row();
+
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	.logo {
+		@include span-columns(2);
+		font-size: 2em;
+		padding-left: 1em;
+		float: left;
+	}
+	.nav-link-bar {
+		@include span-columns(5);
+
+		float: right;
+		padding-top: 1em;
+		@include media($mobile) {
+			@include span-columns(2);
+			clear: both;
+			margin-left: 2em;
+		}
+		.nav-link {
+		padding-right: 1em;
+		display: inline-block;
+		@include media($mobile) {
+			@include span-columns(2);
+			clear: both;
+		}
+	}
+	}
+	
+}

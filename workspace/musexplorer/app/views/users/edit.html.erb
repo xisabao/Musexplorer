@@ -1,0 +1,15 @@
+<h1 class="page-title">Update profile: <%= @user.username %></h1>
+<div class="page-container">
+<%= form_for @user, html: { class: "user-form" } do |f| %>
+		<%= f.label :description %>
+		<%= f.text_area :description, rows: "5" %>
+
+		<%= f.label :location %>
+		<%= f.text_field :location %>
+
+		<%= f.label :teacher, 'Teacher or student?' %>
+		<%= f.select :teacher, options_for_select([['Student', 'student'], ['Teacher', 'teacher']]) %>
+
+		<%= f.submit "Update" %>
+<% end %>
+</div>

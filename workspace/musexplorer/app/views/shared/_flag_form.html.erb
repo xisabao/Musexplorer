@@ -1,0 +1,17 @@
+<div class="flag-container">
+	<div class="flag-trigger" title="Flag this for moderator attention"><%= image_tag("icons/flag.png", size: '16') %> Flag</div>
+
+	<div class="flag-form">
+		<div class="flag-success">Flag submitted!</div>
+		<%= form_for @flag, remote: true, url: flaggable_url do |f| %>
+			<%= f.label :reason %>
+			<%= f.select :reason, options_for_select(["The information is wrong", "This is inappropriate", "Other"]) %>
+
+			<%= f.label :description %>
+			<%= f.text_field :description %>
+
+			<%= f.submit "Submit", { class: "submit-flag" } %>
+		<% end %>
+	</div>
+</div>
+

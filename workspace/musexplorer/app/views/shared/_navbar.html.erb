@@ -1,0 +1,16 @@
+<nav>
+<span class="logo"><%= link_to 'Musexplorer', root_path %></span>
+
+<div class="nav-link-bar">
+<span class="nav-link"><%= link_to 'Browse', pieces_path %></span>
+<span class="nav-link"><%= link_to 'Search', search_path %></span>
+<span class="nav-link"><%= link_to 'Community', categories_path %></span>
+	<%if user_signed_in? %>
+	<span class="nav-link"><%= link_to 'Profile', user_path(current_user) %></span>
+	<span class="nav-link"><%= link_to 'Sign out', destroy_user_session_path, method: :delete %></span>
+	<% else %>
+	<span class="nav-link"><%= link_to 'Sign in', new_user_session_path %></span>
+	<span class="nav-link"><%= link_to 'Sign up', new_user_registration_path %></span>
+	<% end %>
+	</div>
+</nav>

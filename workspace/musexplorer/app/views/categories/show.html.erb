@@ -1,0 +1,37 @@
+<h1 class="page-title"><%= @category.name %></h1>
+<div class="page-container">
+<div class="category-container">
+<div class="category-info-container">
+	<p class="category-post-description"><%= @category.description %></p>
+	<p class="category-post-detail"> Posts: <%= @category.posts.count %></p>
+</div>
+<% if user_signed_in? %><%= button_to 'New Post', new_category_post_path(@category), {method: :get, class: "new-button"} %> <% end %>
+<div class="order-form">
+<%= form_tag({controller: "categories", action: "show"}, {method: :get, class: 'order-form'}) do %>
+		<%= label_tag :order, "Order by" %>
+		<%= select_tag :order, options_for_select(["Most Recent", "Most Popular"], selected: params[:order] ) %>
+
+		<%= submit_tag 'Update', {class: "order-submit"} %>
+<% end %>
+</div>
+<% if @posts.length == 0 && @stickies.length == 0 %>
+	<p>Nothing posted yet...</p>
+<% end %>
+<% @stickies.each do |p| %>
+	<div class="sticky-category-post category-post">
+		<h3><%= link_to p.title, category_post_path(id: p.id, category_id: @category.id) %></h3>
+		 <p class="category-post-detail">Sticky Post</p>
+		 <p class="category-post-detail">Most recent post: <%= p.timestamp.strftime("%m/%d/%Y") %></p>
+	 </div>
+	 <hr>
+<% end %>
+<% @posts.each do |p| %>
+	<div class="category-post">
+		<h3><%= link_to p.title, category_post_path(id: p.id, category_id: @category.id) %></h3>
+		 <p class="category-post-detail"><%= p.total_votes %> </p>
+		 <p class="category-post-detail">Most recent post: <%= p.timestamp.strftime("%m/%d/%Y") %></p>
+	 </div>
+	 <hr>
+<% end %>
+</div>
+</div>

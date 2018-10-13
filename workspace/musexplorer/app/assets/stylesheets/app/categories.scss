@@ -1,0 +1,33 @@
+// Place all the styles related to the Categories controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+	.category-post {
+		padding: 1em;
+	}
+	.sticky-category-post {
+		border: 1px solid #DDD;
+	}
+	.new-button {
+		float: right;
+		margin-right: 10em;
+		a {
+			color: #FFF;
+		}
+	}
+
+.order-form {
+	input.order-submit {
+		margin-top: -2em;
+		font-size: 0.8em;
+	}
+	margin-bottom: 1em;
+}
+.category-container {
+	@include span-columns(11);
+}
+.category-info-container {
+	border: 1px solid #DDD;
+	padding: 1em;
+	margin-bottom: 2em;
+}

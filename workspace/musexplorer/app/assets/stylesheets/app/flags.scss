@@ -1,0 +1,20 @@
+// Place all the styles related to the Flags controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.flag-container {
+	margin-top: 8em;
+	clear: both;
+	.flag-trigger {
+		cursor: pointer;
+		font-size: 0.8em;
+		color: #555;
+		font-style: italic;
+	}
+	.flag-form {
+		display: none;
+	}
+	.flag-success {
+		font-size: 0.8em;
+		display: none;
+	}
+}

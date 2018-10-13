@@ -1,0 +1,134 @@
+<h1 class="page-title">Browse All Pieces</h1>
+<%= form_tag({controller: "pieces", action: "index"}, {method: :get, class: 'search-bar'}) do %>
+		<%= search_field_tag :keywords, nil, placeholder: "Enter keywords" %>
+
+		<%= submit_tag "Search" %>
+	<% end %>
+<div class="tag-cloud-container">
+	<div class="tag_cloud">
+	<% tag_cloud(Piece.tag_counts, %w{s m l}) do |tag, css_class| %>
+		<div class="tag-box"><%= link_to tag.name, tag_path(tag.id), class: css_class %></div>
+	<% end %>
+	</div>
+	</div>
+	<div class="search-sidebar">
+	<div class="search-tools">
+			<h2>Filter</h2>
+	<div class="filters">
+
+
+		<%= form_tag({controller: "pieces", action: "index"}, {method: :get, class: 'filter-form'}) do %>
+
+				<div class="filter">
+					<%= label_tag :instruments %>
+				<div>
+				<ol class="filter-list">
+				<% @instruments.each do |i| %>
+					<li>
+					<%= check_box_tag "instruments[]", i.id, true, id: i.name %>
+					<%= label_tag "instruments[]", i.name.capitalize, for: i.name %>
+					</li>
+				<% end %>
+				</ol>
+				</div>
+				</div>
+				<div class="filter">
+				<%= label_tag :levels %>
+				<div>
+				<ol class="filter-list">
+					<% (1..10).each do |val| %>
+						<li>
+						<%= check_box_tag "level_list[]", val, true, id: val %>
+						<%= label_tag "level_list[]", val, for: val %>
+						</li>
+					<% end %>
+				</ol>
+				</div>
+				</div>
+				<div class="filter">
+					<%= label_tag :eras %>
+				<div>
+				<ol class="filter-list">
+					<% @eras.each do |e| %>
+						<li>
+						<%= check_box_tag "eras[]", e.id, true, id: e.name %>
+						<%= label_tag "eras[]", e.name, for: e.name	 %>
+						</li>
+					<% end %>
+				</ol>
+				</div>
+				</div>
+				<div class="filter">
+					<%= label_tag :countries %>
+				<div>
+				<ol class="filter-list">
+					<% @countries.each do |e| %>
+						<li>
+						<%= check_box_tag "countries[]", e.id, true, id: e.name %>
+						<%= label_tag "countries[]", e.name, for: e.name	 %>
+						</li>
+					<% end %>
+				</ol>
+				</div>
+				</div>
+				<div class="minutes">
+				<%= label_tag :minutes %>
+				<%= label_tag 'Minimum' %>
+				<%= number_field_tag 'minutes[min]', nil, {class: "minutes-field"} %>
+				<%= label_tag 'Maximum' %>
+				<%= number_field_tag 'minutes[max]', nil, {class: "minutes-field"} %>
+				</div>
+				<div class="checkbox">	
+				<%= label_tag :concerto, "Concerto?" %>
+				<%= check_box_tag :concerto %>
+				</div>
+<!-- 				<div class="checkbox">
+				 label_tag :solo %>
+				 check_box_tag :solo %>
+				</div> -->
+				<div class="checkbox">
+				<%= label_tag :free, "Free sheet music?" %>
+				<%= check_box_tag :free %>
+				</div>
+				<div class="filter trigger">
+     				<%= submit_tag 'Filter' %>
+    			</div>
+		<% end %>
+
+	</div>
+	</div>
+	</div>
+
+	<div class="results">
+	<h2>Results</h2>
+	<% if @search %>
+		<% @search.each_hit_with_result do |hit, result| %>
+			<div class="piece">
+			<div class="piece-title"><%= link_to result.name, result %></div>
+			<div class="piece-composer"><%= result.composer.name %></div>
+			<div class="piece-instruments"><%= result.instruments.map { |i| i.name.capitalize }.join(', ') %></div>
+			</div>
+			<hr>
+		<% end %> 
+		<% if @search.hits.length == 0 %>
+			<p>No results found</p>
+		<% end %>
+	<% else %>
+		<% if @pieces.length == 0 %>
+			<p>No results found</p>
+		<% end %>
+		<% @pieces.each do |piece| %>
+			<div class="piece">
+			<div class="piece-title"><%= link_to piece.name, piece %></div>
+			<div class="piece-composer"><%= piece.composer.name %></div>
+			<div class="piece-instruments"><%= piece.instruments.map { |i| i.name.capitalize }.join(', ') %></div>
+			</div>
+			<hr>
+		<% end %>
+		<%= paginate @pieces %>
+	<% end %>
+
+	
+</div>
+
+

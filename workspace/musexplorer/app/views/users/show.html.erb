@@ -1,0 +1,78 @@
+<h1 class="page-title"><%= @user.username %></h1>
+<div class="page-container">
+	<div class="user-container">
+	<div class="user-details">
+		<% if current_user == @user %>
+			<p><%= link_to 'Edit profile', edit_user_path(@user) %></p>
+		<% end %>
+		Last signed in: <%= time_ago_in_words(@user.last_sign_in_at) %>
+		<div class="user-roles">
+			<%= @user.teacher.capitalize if @user.teacher %><br>
+			<%= @user.role.capitalize if @user.role %>
+		</div>
+		<p class="user-description"><%= @user.description %><br>
+		Location: <%= @user.location %></p>
+
+	</div>
+<div class="user-post-container">
+	<h3>Posts</h3>
+	
+		<div class="post-list">
+			<% if !@user.posts.empty? %>
+				<% @user.posts.each do |p| %>
+					<% if p && !p.categories.empty?%>
+					<div class="post-list-item">
+					<%= link_to p.title, category_post_path(category_id: p.categories.first.id, id: p.id) %> 
+
+					<span class="date">
+						<%= time_ago_in_words(p.created_at) %> ago
+					</span>
+					</div>
+					<% end %>
+				<% end %>
+			<% else %>
+				<p>This user hasn't posted yet!</p>
+			<% end %>
+			</div>
+	</div>
+<div class="user-reply-container">
+
+	<h3>Replies</h3>
+	<div class="user-replies">
+	<% if !@user.replies.empty? %>
+	<% @user.replies.each do |r| %>
+		<% if r %>
+		<div class="reply">
+			<div><%= link_to r.post.title, category_post_path(id: r.post.id, category_id: r.post.categories.first.id) %></div>
+			<div><%= r.body %></div>
+			<span class="date"><%= time_ago_in_words(r.created_at) %> ago</span>
+		</div>
+		<% end %>
+	<% end %>
+	<% else %>
+		<p>This user hasn't replied to any posts yet!</p>
+	<% end %>
+	</div>
+</div>
+<div class="user-piece-container">
+	<h3>Pieces Played</h3>
+	<% if !@user.pieces.empty? %>
+	<ul>
+	<% @user.pieces.each do |p| %>
+		<% if p %>
+		<li><%= link_to p.name, p %>
+		<span class="delete"><% if @user == current_user %>
+			<%= link_to 'Delete', delete_piece_user_path(user_id: @user.id, piece_id: p.id), method: :delete %>
+		<% end %>
+		</span>
+		</li>
+		<% end %>
+	<% end %>
+
+	</ul>
+	<% else %>
+		<p>This user hasn't added any pieces to their history yet!</p>
+	<% end %>
+	</div>
+	</div>
+</div>

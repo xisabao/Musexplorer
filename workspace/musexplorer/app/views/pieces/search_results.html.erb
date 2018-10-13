@@ -1,0 +1,20 @@
+<h1 class="page-title">Search Results</h1>
+<div class="page-container">
+<% if !@results %>
+	<%= render 'no_results' %>
+<% elsif @results.length != 0 %>
+<div class="results">
+	<% @results.each_pair do |piece, points| %>
+		<div class="piece">
+			<div class="piece-title"><%= link_to piece.name, piece %></div>
+			<div class="piece-composer"><%= piece.composer.name %></div>
+			<div class="piece-instruments"><%= piece.instruments.map { |i| i.name.capitalize }.join(', ') %></div>
+			<div class="piece-points"><%= points.round(2).to_i %>%</div>
+		</div>
+			<hr>
+	<% end %>
+</div>
+<% else %>
+ <%= render 'no_results' %>
+<% end %>
+</div>

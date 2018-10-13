@@ -1,0 +1,10 @@
+<% if !flash.empty? %>
+	<div id="flash">
+	<% flash.each do |k, v| %>
+		<div class="flash-<%= k %>">
+			<div class="flash-close"><%= image_tag("icons/close.png") %></div>
+			<%= v %>
+		</div>
+	<% end %>
+	</div>
+<% end %>

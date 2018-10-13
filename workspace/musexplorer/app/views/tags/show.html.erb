@@ -1,0 +1,15 @@
+<h1 class="page-title">Tag: <%= @tag.name %></h1>
+<div class="page-container">
+<div class="tag-show-container">
+	<% @taggings.each do |t| %>
+		<div class="piece">
+			<div class="piece-votes"><%= t.total_votes %> - </div><div class="piece-title"><%= link_to t.piece.name, t.piece %></div>
+			<div class="piece-composer"><%= t.piece.composer.name %></div>
+			 <div class="piece-instruments"><%= t.piece.instruments.map { |i| i.name.capitalize }.join(', ') %></div>
+		</div>
+			 <div class="h-line"></div>
+	<% end %>
+</div>
+</div>
+
+
